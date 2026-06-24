@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "area": "Musculación",
+    "cupos": 5
+  },
+  {
+    "id": 2,
+    "area": "Cardio",
+    "cupos": 3
+  },
+  {
+    "id": 3,
+    "area": "Clases Grupales",
+    "cupos": 2
+  }
+]
